@@ -1,4 +1,4 @@
-# myCode
+
 # Question-Led Object Attention for Visual Question Answering
 
 This is the code that we wrote to train our VQA models for COCOQA and VQA datasets. We use python with Theano library to train the
